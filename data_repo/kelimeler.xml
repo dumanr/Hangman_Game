@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <tr>
+        <kelime>
+            <ad>SIVAS</ad>
+        </kelime>
+        <kelime>
+            <ad>ISTANBUL</ad>
+        </kelime>
+        <kelime>
+            <ad>ANKARA</ad>
+        </kelime>
+        <kelime>
+            <ad>EDIRNE</ad>
+        </kelime>
+        <kelime>
+            <ad>MUGLA</ad>
+        </kelime>
+        <kelime>
+            <ad>ANTALYA</ad>
+        </kelime>
+    </tr>
+    <en>
+        <kelime>
+            <ad>TREE</ad>
+        </kelime>
+        <kelime>
+            <ad>TRIP</ad>
+        </kelime>
+        <kelime>
+            <ad>UNCLE</ad>
+        </kelime>
+        <kelime>
+            <ad>AUNT</ad>
+        </kelime>
+        <kelime>
+            <ad>VOICE</ad>
+        </kelime>
+        <kelime>
+            <ad>WASH</ad>
+        </kelime>
+    </en>
+</data>
